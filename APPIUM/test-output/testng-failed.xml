@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test_Suite]" parallel="none">
+  <test name="Test_Cases(failed)" parallel="none">
+    <classes>
+      <class name="Appium_PKG.NewTest3">
+        <methods>
+          <include name="TestCase_3"/>
+        </methods>
+      </class> <!-- Appium_PKG.NewTest3 -->
+    </classes>
+  </test> <!-- Test_Cases(failed) -->
+</suite> <!-- Failed suite [Test_Suite] -->
